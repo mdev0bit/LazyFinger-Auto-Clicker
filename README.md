@@ -1,5 +1,5 @@
-# Auto Clicker Pro
-Auto Clicker Pro is a high-performance automated clicking tool featuring an ultra-clean UI built with ttkbootstrap for crisp, professional rendering. It is designed with advanced features like random interval offsets and specific cursor targeting to provide a seamless automation experience.
+# LazyFinger Auto Clicker
+LazyFinger Auto Clicker is a high-performance automated clicking tool featuring an ultra-clean UI built with ttkbootstrap for crisp, professional rendering. It is designed with advanced features like random interval offsets and specific cursor targeting to provide a seamless automation experience.
 
 ## 🚀 Key Features
 Precision Timing: Set click intervals using hours, minutes, seconds, and milliseconds.
