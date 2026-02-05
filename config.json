@@ -1,0 +1,16 @@
+{
+    "hours": "0",
+    "minutes": "0",
+    "seconds": "0",
+    "milliseconds": "100",
+    "use_random_offset": false,
+    "random_offset_value": "40",
+    "mouse_button": "Left",
+    "click_type": "Single",
+    "repeat_mode": "until_stopped",
+    "repeat_count": "1",
+    "cursor_mode": "current",
+    "x_pos": "0",
+    "y_pos": "0",
+    "hotkey": "f6"
+}
